@@ -3,7 +3,7 @@ Challenge
 
 -Realizado em Outubro;
 
--Utilazando o Intellij idea community edition;
+-Utilizando o Intellij idea community edition;
 
 -O principal objetivo é a criação de conversor de vários valores das moedas.
 
