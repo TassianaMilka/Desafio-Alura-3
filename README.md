@@ -3,7 +3,9 @@ Challenge
 
 -Realizado em Outubro;
 
--Utilazando o  ;
+-Utilazando o Intellij idea community edition;
+
+-
 
 
 
