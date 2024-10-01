@@ -5,7 +5,7 @@ Challenge
 
 -Utilazando o Intellij idea community edition;
 
--O principal objetivo é a criação de conversor de vários valores moedas.
+-O principal objetivo é a criação de conversor de vários valores das moedas.
 
 - 
 
