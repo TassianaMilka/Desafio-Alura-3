@@ -1,7 +1,7 @@
 # Desafio-Alura-3
 Challenge
 
--Realizado em Outubro;
+-Realizado em Otubro;
 
 -Utilazando o  ;
 
