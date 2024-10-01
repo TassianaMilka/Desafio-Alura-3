@@ -5,8 +5,9 @@ Challenge
 
 -Utilazando o Intellij idea community edition;
 
--
+-O principal objetivo é a criação de conversor de várias moedas de diferente países.
 
+- 
 
 
 # Link about courses challenge
