@@ -5,7 +5,7 @@ Challenge
 
 -Utilizando o Intellij idea community edition;
 
--O principal objetivo é a criação de conversor de vários valores das moedas.
+-O principal objetivo é a criação de conversor das moedas.
 
 - Dolár;
 - Peso Argentino;
