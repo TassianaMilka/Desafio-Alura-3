@@ -7,7 +7,10 @@ Challenge
 
 -O principal objetivo é a criação de conversor de vários valores das moedas.
 
-- 
+- Dolár;
+- Peso Argentino;
+- Peso Colombiano;
+- Real Brasileiro.
 
 
 # Link about courses challenge
