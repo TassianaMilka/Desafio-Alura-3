@@ -1,7 +1,7 @@
 # Desafio-Alura-3
 Challenge
 
--Realizado em Outubro;
+-Realizado em Outubro de 2024;
 
 -Utilizando o Intellij idea community edition;
 
