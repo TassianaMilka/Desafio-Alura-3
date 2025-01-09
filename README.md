@@ -21,10 +21,6 @@ https://github.com/TassianaMilka/Course/tree/main/Alura/Java%20e%20Orienta%C3%A7
 
 # Trello
 
-## Formação Java e Orientação a Objetos
-
-https://trello.com/b/tYeDytLW/forma%C3%A7%C3%A3o-java-e-orienta%C3%A7%C3%A3o-a-objetos
-
 ## Conversor de Moeda - Challenge ONE - Java - Back end
 
 https://trello.com/b/C4rYGVxY/conversor-de-moeda-challenge-one-java-back-end
